@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled 
+806f22569a83609cc41dbeaedbc5d9c4e6ee6cb9 refs/heads/gitbranch1
+d1928bfc783ab1f5a291ebcd5d65e49bb250b27c refs/heads/master
+806f22569a83609cc41dbeaedbc5d9c4e6ee6cb9 refs/pull/1/head
+1b25e96463ebe380a1031708ab148c43a06d15f0 refs/pull/1/merge
